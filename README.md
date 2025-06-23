@@ -3,14 +3,14 @@ This repository contains solutions to Python data manipulation tasks from Strata
 - [Easy](/#easy)
 - [Medium](#medium)
 - [Hard](#hard)
--📚 Contents:
+<p>📚 Contents:
 📊 Data Cleaning – Handling missing values, duplicates, and formatting.
 
 📈 Data Transformation – Grouping, filtering, aggregations, and joins using pandas.
 
 🧠 Logic & Analysis – Business logic applied through pandas for insights and KPIs.
 
-✅ Interview-style Challenges – Solutions to popular data science questions using pandas.
+✅ Interview-style Challenges – Solutions to popular data science questions using pandas.</p>
 <h2 id ='easy'>🎯 Difficulty Level - Easy</h2>
 <h3>Q1 Find all posts which were reacted to with a heart. For such posts output all columns from facebook_posts table.</h3>
 <h3>💾 DataFrames Used:</h3>
