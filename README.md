@@ -3,7 +3,7 @@ This repository contains solutions to Python data manipulation tasks from Strata
 - [Easy](/#easy)
 - [Medium](#medium)
 - [Hard](#hard)
-📚 Contents:
+-📚 Contents:
 📊 Data Cleaning – Handling missing values, duplicates, and formatting.
 
 📈 Data Transformation – Grouping, filtering, aggregations, and joins using pandas.
@@ -11,7 +11,7 @@ This repository contains solutions to Python data manipulation tasks from Strata
 🧠 Logic & Analysis – Business logic applied through pandas for insights and KPIs.
 
 ✅ Interview-style Challenges – Solutions to popular data science questions using pandas.
-## Difficulty Level - Easy
+<h2 id ='easy'>🎯 Difficulty Level - Easy</h2>
 <h3>Q1 Find all posts which were reacted to with a heart. For such posts output all columns from facebook_posts table.</h3>
 <h3>💾 DataFrames Used:</h3>
 <ul>
@@ -230,7 +230,6 @@ a['year_month'] = a['shipment_date'].dt.strftime('%Y-%m')
 a[['sub_id','year_month']].groupby('year_month').count().reset_index().head()
 </code></pre>
 
-# Medium
-# Difficulty Level - Medium
+<h2 id ='medium'>🎯 Difficulty Level - Medium</h2>
 
 
